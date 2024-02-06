@@ -1,0 +1,206 @@
+html {
+    margin: 0;
+  padding: 0;
+  }
+  
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: #474747;
+    margin: 0;
+	padding: 0;
+	color: #222;
+	background: #474747;
+	font-family: 'Noto Sans', sans-serif;
+}
+  
+
+  
+ header
+   {
+    background-color:rgba(0,0,0,.6);
+    
+  }
+
+  #container1 {
+    text-align: left;
+    display: block;
+    
+    
+  }
+  
+  
+  
+
+img{
+    max-width: 100%;
+    width: 300px;
+    height: auto;
+   text-align: left;
+   margin: 20;
+
+ 
+}
+nav{
+
+    background-color: #323232;
+    margin:0 ;
+ 
+   
+}
+ul{
+    list-style-type: none;
+      padding: 0;
+      text-align: center;
+      margin: 0;
+}
+li{
+    margin: 0;
+    display: inline-block;
+
+}
+
+
+.menu{
+  
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    text-align: center;   
+    cursor: pointer;
+    padding: 20;
+    
+    
+   
+}
+
+.menu:hover{
+  background:  #474747;
+  color: #fff;
+  transition: background 1s, color 1s;
+}
+
+#asesorias{
+    text-align: left;
+    color: white;
+    margin: 50;
+    margin-left: 100;
+}
+.date{
+    font-size: 1em;
+    font-weight: 400;
+    color: #9C9C9C;
+    margin-top: -10px;
+    text-decoration: underline;
+    text-decoration-color: currentColor;
+}
+#imagen{
+    width:600px ;
+    height:auto ;
+}
+
+.post{
+    background: #fff;
+    box-shadow: 5px 5px 15px -1px rgba(0,0,0,0.3);
+    width: auto;
+    height: auto;
+    max-width: 35%;
+    margin-left: 20%;
+    padding: 40px;
+    margin-top: 40px;
+    }
+
+h1{
+    font-size: 2.5em;
+    margin-top: 5px;
+}
+
+.linea {
+   
+    color: black;
+    text-align: justify;
+    font-size: 17px;
+    line-height:  1.4em;
+    border-left: 5px solid #8EE5EE;
+    padding-left: 15px;
+}
+.link{
+    color: #009ACD;
+	font-style: italic;
+	transition: all 0.4s;
+    text-decoration: none;
+}
+.link:hover{
+    color: #005c7b;
+	text-decoration: underline;
+	text-decoration-color: currentColor;
+	cursor: pointer;
+}
+
+
+.rightpost{
+    max-width: 240px;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-left: 62%;
+    vertical-align: top;
+    display: block;
+    position: absolute;
+    top: 42%;
+    background: white;
+    text-align: center;
+
+}
+
+.parrafo1{
+
+    color: black;
+    text-align: left;
+    font-size: 17px;
+    line-height:  1.4em;
+}
+.button{
+    display: block;
+    padding: 15px 20px;
+    margin-top: 0.8em;
+    background: #009ACD;
+    text-align: center;
+    color: #fff;
+    font-size: 1.4em;
+    border-radius: 3px;
+    transition: all .4s ease-in;
+}
+
+.button:hover{
+	background: #005c7b;
+}
+
+#suport{
+    margin: 0%;
+    padding: 0%;
+}
+
+.rightpost2{
+    max-width: 240px;
+    width: auto;
+    height: auto;
+    padding: 20px;
+    display: block;
+    margin-left: 62%;
+    vertical-align: top;
+    display: block;
+    position: absolute;
+    top: 87%;
+    background: white;
+    text-align: center;
+
+}
+
+#flecha{
+margin: 0%;
+padding: 0%;
+}
