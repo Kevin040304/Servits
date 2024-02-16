@@ -54,7 +54,7 @@ li{
 }
 
 
-a{
+.hh{
   display: block;
   
     color: #fff;
@@ -69,7 +69,7 @@ a{
    
 }
 
-a:hover{
+.hh:hover{
   background:  #4055BF;
   color: #fff;
   transition: background 1s, color 1s;
